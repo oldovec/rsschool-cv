@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, 'avenir next', avenir, roboto, noto, ubuntu, 'helvetica neue', helvetica, arial, sans-serif;
+  background: #111111;
+}
+
+.resume {
+  box-sizing: border-box;
+  padding: 2rem 5rem;
+  max-width: 1024px;
+  margin: 0 auto;
+  color: white;
+}
+
+.resume-photo {
+  display: flex;
+  justify-content: center;
+}
+
+.resume-text > h1 {
+  align-self: center;
+}
+
+.resume-text > h2:nth-child(2) {
+  margin-top: 0;
+}
+
+.h-column {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  color: #eb68be;
+}
+
+p {
+  margin: 0;
+}
