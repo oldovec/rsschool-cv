@@ -1,0 +1,1 @@
+[rsschool-cv](https://oldovec.github.io/rsschool-cv/cv)
